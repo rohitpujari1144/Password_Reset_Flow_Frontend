@@ -1,3 +1,3 @@
 # Password Reset Flow Frontend
 
-- Deployed URL:
+- Deployed URL: https://new-password-reset-flow.netlify.app/
